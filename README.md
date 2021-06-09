@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tahasildarrashid
+- 👋 Hi, I’m Rashid T Tahasildar
 - 👀 I’m interested in ... coding and learning new things
 - 🌱 I’m currently learning .. CSE in B.E
 - 💞️ I’m looking to collaborate on ...
