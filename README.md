@@ -1,6 +1,6 @@
 ### Hi there, I'm Rashid T Tahasildar! 👋
 
-![](https://komarev.com/ghpvc/?username=praths71018&color=green)
+![](https://komarev.com/ghpvc/?username=Tahasildarrashid&color=green)
 
 I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, currently in my 3rd year. I'm passionate about web development, and exploring the realms of AI/ML. 
 
