@@ -35,6 +35,8 @@ Machine learning and Data Analytics as well.
 
    - Projects:
      - [AISummarizer](https://github.com/Tahasildarrashid/AI_summarizer)
+     - [ATMSimulator](https://github.com/Tahasildarrashid/ATM_Simulator)
+     - [Microservices_and_communication_using_RabbitMQ](https://github.com/Tahasildarrashid/Microservices_and_Communication_using_RabbitMQ)
      - [Portfolio](https://github.com/Tahasildarrashid/Portfolio)  
 
 3. **AI / ML:**
