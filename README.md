@@ -9,7 +9,7 @@ Machine learning and Data Analytics as well.
 
 #### How to reach me:
 - LinkedIn: [Rashid T Tahasildar](https://www.linkedin.com/in/rashid-t-tahasildar-79a48521b/)
-- Email: [tahasildarrashid@gmail.com](tahasildarrashid233@gmail.com)
+- Email: [tahasildarrashid233@gmail.com](tahasildarrashid233@gmail.com)
 - Leetcode: [Click here](https://leetcode.com/u/tahasildarrashid233/)
 
 #### Major Skillsets:
