@@ -98,6 +98,10 @@ Machine learning and Data Analytics as well.
 ![Rashid T Tahasildar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tahasildarrashid&theme=dark&hide_border=false)
 ![Rashid T Tahasildar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahasildarrashid&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
+###Github Trophies:
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tahasildarrashid&theme=juicyfresh" alt="Oops!! Error Occurred!" /></a> </p>
+
 #### Education and Certifications:
 - B.Tech in Computer Science and Engineering, 3rd Year
 - Top 15 in ISFCR HACK ATTACK 2023
