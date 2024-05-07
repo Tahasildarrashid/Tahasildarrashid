@@ -90,9 +90,9 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
 - Project 1: [Hospital management system](https://github.com/Tahasildarrashid/hospital-management-system)
 
 #### GitHub Stats:
-![praths71018's Stats](https://github-readme-stats.vercel.app/api?username=praths71018&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![praths71018's Streak](https://github-readme-streak-stats.herokuapp.com/?user=praths71018&theme=dark&hide_border=false)
-![praths71018's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praths71018&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![Rashid T Tahasildar's Stats](https://github-readme-stats.vercel.app/api?username=Tahasildarrashid&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![Rashid T Tahasildar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tahasildarrashid&theme=dark&hide_border=false)
+![Rashid T Tahasildar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahasildarrashid&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 #### Education and Certifications:
 - B.Tech in Computer Science and Engineering, 3rd Year
