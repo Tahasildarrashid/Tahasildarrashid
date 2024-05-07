@@ -31,8 +31,8 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
       </div>
 
    - Projects:
-     - [Webgames](https://github.com/praths71018/Webgames-MERN-Stack)
-     - [Football Statistis Webpage](https://github.com/praths71018/Fut_Stats)  
+     - [AISummarizer](https://github.com/Tahasildarrashid/AI_summarizer)
+     - [Portfolio](https://github.com/Tahasildarrashid/Portfolio)  
 
 3. **AI / ML:**
    - Beginner in Machine Learning and AI. Proficient in:
@@ -87,7 +87,7 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
 </div>
   
 #### Other Project Highlights:
-- Project 3: [Task Manager](https://github.com/praths71018/Task-Manager)
+- Project 1: [Hospital management system](https://github.com/Tahasildarrashid/hospital-management-system)
 
 #### GitHub Stats:
 ![praths71018's Stats](https://github-readme-stats.vercel.app/api?username=praths71018&theme=dark&show_icons=true&hide_border=false&count_private=true)
