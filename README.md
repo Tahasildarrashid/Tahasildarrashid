@@ -41,7 +41,7 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
      - Data Analytics
        
 
-5. **Programming Languages:**
+4. **Programming Languages:**
    <div align="center">
   	<table>
   		<tr>
@@ -53,7 +53,7 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
   	</table>
   </div>
 
-6. **Tools / Languages:**
+5. **Tools / Languages:**
    <div align="center">
 	<table>
 		<tr>
@@ -72,7 +72,6 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
 			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/></code></td>
 		</tr>
 		<tr>
-			<td><code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code></td>
 		</tr>
 	</table>
 </div>
