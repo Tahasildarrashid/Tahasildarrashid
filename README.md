@@ -45,9 +45,9 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
    <div align="center">
   	<table>
   		<tr>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/><code></td>
   		  <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/><code></td>
   			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/><code></td>
-  			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/><code></td>
   			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/><code></td>
   		</tr>
   	</table>
@@ -82,15 +82,12 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code></td>
 			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code></td>
 		</tr>
 	</table>
 </div>
   
 #### Other Project Highlights:
-- Project 1: [MAX30205 Body Temperature Sensor](https://github.com/praths71018/MAX30205-Arduino-Uno-CustomTK)
-- Project 2: [Custom Tkinter- SQL Integration](https://github.com/praths71018/CustomTkinter-SQL-Integration)
 - Project 3: [Task Manager](https://github.com/praths71018/Task-Manager)
 
 #### GitHub Stats:
@@ -100,12 +97,10 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
 
 #### Education and Certifications:
 - B.Tech in Computer Science and Engineering, 3rd Year
-- Top 10 in KODIKON 2.0
-- Runners Up in Arithemenia 2.0 
+- Top 15 in ISFCR HACK ATTACK 2023
 
 #### Interests and Hobbies:
-- Cricket
-- Watching web series
+- Attending and participating in tech events
 - Exploring new technologies
 
 Feel free to connect with me! Let's collaborate and build something awesome together.
