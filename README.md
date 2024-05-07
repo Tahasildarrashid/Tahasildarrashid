@@ -1,12 +1,16 @@
 ### Hi there, I'm Rashid T Tahasildar! 👋
 
-![](https://komarev.com/ghpvc/?username=Tahasildarrashid&color=green)
-
-I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, currently in my 3rd year. I'm passionate about web development, and exploring the realms of AI/ML. 
+I'm Rashid T Tahasildar a coding enthusiast pursuing my bachelor's in computer science and engineering. 
+Working on problem solving skills in C++ and Data structures and Algortithm. 
+Working on a Capstone project with the title 
+Optimizing Aerodynamics of car using Dynamic flow lines Adaptation.
+Have a great exposure to MERN stack
+Machine learning and Data Analytics as well.
 
 #### How to reach me:
 - LinkedIn: [Rashid T Tahasildar](https://www.linkedin.com/in/rashid-t-tahasildar-79a48521b/)
 - Email: [tahasildarrashid@gmail.com](tahasildarrashid233@gmail.com)
+- Leetcode: [Click here](https://leetcode.com/u/tahasildarrashid233/)
 
 #### Major Skillsets:
 1. **Full Stack Web Development:**
@@ -103,3 +107,5 @@ I'm a 21-year-old B.Tech student majoring in Computer Science and Engineering, c
 - Exploring new technologies
 
 Feel free to connect with me! Let's collaborate and build something awesome together.
+
+![](https://komarev.com/ghpvc/?username=Tahasildarrashid&color=green)
