@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Harsh+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Harsh Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Rashid T Tahasildar +Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Rashid T Tahasildar Welcome to my Profile! animated typed out">
 
 I'm Rashid T Tahasildar a coding enthusiast pursuing my bachelor's in computer science and engineering. 
 Working on problem solving skills in C++ and Data structures and Algortithm. 
