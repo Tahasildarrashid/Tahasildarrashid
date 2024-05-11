@@ -34,14 +34,14 @@ Machine learning and Data Analytics as well.
      - [Microservices_and_communication_using_RabbitMQ](https://github.com/Tahasildarrashid/Microservices_and_Communication_using_RabbitMQ)
      - [Portfolio](https://github.com/Tahasildarrashid/Portfolio)  
 
-3. **AI / ML:**
+2. **AI / ML:**
    - Beginner in Machine Learning and AI. Proficient in:
      - Supervised Machine Learning
      - Deep Learning [3D CNN]
      - Data Analytics
        
 
-4. **Programming Languages:**
+3. **Programming Languages:**
    <div align="center">
   	<table>
   		<tr>
@@ -53,7 +53,7 @@ Machine learning and Data Analytics as well.
   	</table>
   </div>
 
-5. **Tools / Languages:**
+4. **Tools / Languages:**
    <div align="center">
 	<table>
 		<tr>
@@ -75,7 +75,7 @@ Machine learning and Data Analytics as well.
 	</table>
 </div>
 
-7. **Operating Systems:**
+5. **Operating Systems:**
    <div align="center">
 	<table>
 		<tr>
