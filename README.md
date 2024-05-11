@@ -7,11 +7,6 @@ Optimizing Aerodynamics of car using Dynamic flow lines Adaptation.
 Have a great exposure to MERN stack
 Machine learning and Data Analytics as well.
 
-#### Social Handles:
-- LinkedIn: [Rashid T Tahasildar](https://www.linkedin.com/in/rashid-t-tahasildar-79a48521b/)
-- Email:    [tahasildarrashid233@gmail.com](tahasildarrashid233@gmail.com)
-- Leetcode: [Click here](https://leetcode.com/u/tahasildarrashid233/)
-
 #### Major Skillsets:
 1. **Full Stack Web Development:**
    
@@ -113,6 +108,11 @@ Machine learning and Data Analytics as well.
 #### Interests and Hobbies:
 - Attending and participating in tech events
 - Exploring new technologies
+
+#### Social Handles:
+- LinkedIn: [Rashid T Tahasildar](https://www.linkedin.com/in/rashid-t-tahasildar-79a48521b/)
+- Email:    [tahasildarrashid233@gmail.com](tahasildarrashid233@gmail.com)
+- Leetcode: [Click here](https://leetcode.com/u/tahasildarrashid233/)
 
 Feel free to connect with me! Let's collaborate and build something awesome together.
 
