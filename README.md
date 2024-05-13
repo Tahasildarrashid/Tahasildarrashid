@@ -114,5 +114,4 @@ Machine learning and Data Analytics as well.
 - Email:    [tahasildarrashid233@gmail.com](tahasildarrashid233@gmail.com)
 - Leetcode: [Click here](https://leetcode.com/u/tahasildarrashid233/)
 
-Feel free to connect with me! Let's collaborate and build something awesome together.
-
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=1000&height=50&lines=Yo%2C+ Feel free to connect with me!" align="middle" alt="Feel free to connect with me! animated typed out">
