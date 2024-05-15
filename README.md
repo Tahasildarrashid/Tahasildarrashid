@@ -99,7 +99,7 @@ Machine learning and Data Analytics as well.
 
 ###Github Trophies:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tahasildarrashid&theme=juicyfresh" alt="Oops!! Error Occurred!" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tahasildarrashid&theme=juicyfresh=ryo-ma&row=3&column=3" alt="Oops!! Error Occurred!" /></a> </p>
 
 #### Education and Certifications:
 - B.Tech in Computer Science and Engineering, 3rd Year
